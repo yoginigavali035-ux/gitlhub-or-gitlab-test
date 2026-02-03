@@ -29,3 +29,4 @@ This workflow helps in maintaining proper version control and separates developm
 
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo.png)
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo-branch.png)
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo-code.png)
