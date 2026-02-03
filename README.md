@@ -1,7 +1,7 @@
 This image shows the task assigned for this project.
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1.jpeg)
 
-[1] This is Public Repository.
+✅ This is Public Repository.
 
 
 Repository and Branch Setup
