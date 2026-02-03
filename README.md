@@ -28,3 +28,4 @@ After making at least two commits, I pushed the dev branch to GitHub.
 This workflow helps in maintaining proper version control and separates development work from the main branch.
 
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo.png)
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo-branch.png)
