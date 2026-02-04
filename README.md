@@ -67,3 +67,12 @@ I then verified that these changes were automatically reflected in the GitHub re
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-mirroring-repo-github.png).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👥 Subtask 6: Access Control
+
+[1] Invited a friend to the GitLab private repository
+[2] Assigned Guest role initially and observed limited access
+[3] Changed the role from Guest to Developer
+[4] Verified access by allowing the user to push one file to the repository
+
+
