@@ -44,4 +44,11 @@ This workflow helps in maintaining proper version control and separates developm
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Task 2 :
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2.jpeg)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🦊 GitLab Repository Setup
+
+I created a private repository on GitLab.
+The repository was then cloned to my local machine using SSH for secure authentication.
+After cloning, I created a simple project structure, including files like src/app.py and docs/guide.md, to organize the project properly.
 ![image alt]()
