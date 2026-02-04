@@ -61,4 +61,9 @@ I configured repository mirroring between GitLab and GitHub.
 The GitHub private repository was set as a mirror of the GitLab repository.
 After setting up the mirror, I pushed changes (for example, updates to docs/guide.md) to the GitLab repository.
 I then verified that these changes were automatically reflected in the GitHub repository, confirming that mirroring was working correctly.
-![image alt]().
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Mirroring-Repo.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Gitlab-Mirroring-code.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2--Pvt-repo-gitlab.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-mirroring-repo-github.png).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
