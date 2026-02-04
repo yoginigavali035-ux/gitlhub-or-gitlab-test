@@ -13,7 +13,18 @@ This helps to keep the main branch stable and use the dev branch for active deve
 
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/task1_public_repo.png)
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-public-repo.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+🔑 Create Personal Access Token 
+
+Go to GitHub → Settings
+Open Developer settings
+Click Personal access tokens → Tokens (classic)
+Select Generate new token (classic)
+Add a note, choose expiry, and enable repo scope
+Generate and copy the token (save it securely)
+
+![image alt]()
 
 🔒 Private Repository Setup and Dev Branch Workflow
 
