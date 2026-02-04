@@ -24,7 +24,7 @@ Select Generate new token (classic)
 Add a note, choose expiry, and enable repo scope
 Generate and copy the token (save it securely)
 
-![image alt]()
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-token.png)
 
 🔒 Private Repository Setup and Dev Branch Workflow
 
