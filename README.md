@@ -1,8 +1,10 @@
-This image shows the task assigned for this project.
+Task 1:.
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1.jpeg)
 
-✅ This is Public Repository.
 
+
+Subtask 1 : Setup Repository.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Public Repository.
 
 Repository and Branch Setup
 First, I created a public repository on GitHub.
@@ -15,6 +17,9 @@ This helps to keep the main branch stable and use the dev branch for active deve
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-public-repo.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Subtask 2 : Local Development:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🔑 Create Personal Access Token 
 
 Go to GitHub → Settings
@@ -26,7 +31,9 @@ Generate and copy the token (save it securely)
 
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-token.png)
 
-🔒 Private Repository Setup and Dev Branch Workflow
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔒 Private Repository
 
 
 I created a private repository on GitHub and cloned it to my local machine.
@@ -40,10 +47,15 @@ This workflow helps in maintaining proper version control and separates developm
 
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo.png)
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo-branch.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Subtask 3: Collabration Workflow
+
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task1-pvt-repo-code.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Task 2 :
+
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2.jpeg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔁 Subtask 4 : GitLab Repository Setup
@@ -75,4 +87,15 @@ I then verified that these changes were automatically reflected in the GitHub re
 [3] Changed the role from Guest to Developer
 [4] Verified access by allowing the user to push one file to the repository
 
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Screenshot%202026-02-04%20192634.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Access-Controle.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Access-controle-ChangeRole-Developer.png).
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Acess-Controle-Final.png).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+✅ Conclusion
+
+This project demonstrates hands-on experience with GitHub and GitLab workflows, including repository creation, branch management, secure authentication, repository mirroring, and access control.
+All tasks were completed by following best practices for version control and collaboration.
 
