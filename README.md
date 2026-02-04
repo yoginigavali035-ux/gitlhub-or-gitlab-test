@@ -51,4 +51,5 @@ Task 2 :
 I created a private repository on GitLab.
 The repository was then cloned to my local machine using SSH for secure authentication.
 After cloning, I created a simple project structure, including files like src/app.py and docs/guide.md, to organize the project properly.
-![image alt]()
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Project-Structure.png)
+![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Project-Structure-Code.png)
