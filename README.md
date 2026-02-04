@@ -46,10 +46,19 @@ This workflow helps in maintaining proper version control and separates developm
 Task 2 :
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2.jpeg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🦊 GitLab Repository Setup
+🔁 Subtask 4 : GitLab Repository Setup
 
 I created a private repository on GitLab.
 The repository was then cloned to my local machine using SSH for secure authentication.
 After cloning, I created a simple project structure, including files like src/app.py and docs/guide.md, to organize the project properly.
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Project-Structure.png)
 ![image alt](https://github.com/yoginigavali035-ux/gitlhub-or-gitlab-test/blob/main/Task2-Project-Structure-Code.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔁 Subtask 5: Repository Mirroring
+
+I configured repository mirroring between GitLab and GitHub.
+The GitHub private repository was set as a mirror of the GitLab repository.
+After setting up the mirror, I pushed changes (for example, updates to docs/guide.md) to the GitLab repository.
+I then verified that these changes were automatically reflected in the GitHub repository, confirming that mirroring was working correctly.
+![image alt]().
